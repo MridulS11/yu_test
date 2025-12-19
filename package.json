@@ -1,0 +1,16 @@
+{
+  "name": "vulnlab-plus",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Intentionally vulnerable web app for security intern practical assessments (LOCAL ONLY).",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.1.7"
+  }
+}
