@@ -1,7 +1,5 @@
 # VulnLab+ (Intentionally Vulnerable) — Interview / Training App
 
-**LOCAL ONLY. DO NOT DEPLOY TO THE PUBLIC INTERNET.**  
-This mini-app contains intentionally insecure patterns for interviewing security interns.
 
 ## Context
 You will assess an intentionally vulnerable web application representing a modern stack (web APIs, file uploads, and AI-style integrations). Your objective is to identify, explain, and prioritize security vulnerabilities, and recommend practical fixes.
@@ -27,7 +25,3 @@ You will assess an intentionally vulnerable web application representing a moder
 - Admin panel
 - Integration endpoints (/api/fetch, /api/ping) and redirect
 - Debug endpoints (/debug/env, /debug/eval)
-
-## Reminder
-
-This repository is intentionally unsafe. Keep it isolated.
